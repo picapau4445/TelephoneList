@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!--  Button
+        android:id="@+id/button_add"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="0.45"
+        android:text="Button" /-->
+
+    <picapau.contacts.onehandlist.res.SortableListView
+        android:id="@+id/GroupSortList"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+    />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.90"
+        >
+
+        <Button
+            android:id="@+id/button_OK"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:text="@+string/button_ok" />
+
+        <Button
+            android:id="@+id/button_Cancel"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:text="@+string/button_cancel" />
+
+    </LinearLayout>
+
+</LinearLayout>

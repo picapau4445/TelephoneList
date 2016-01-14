@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="Readme">更新履歴</string>
+    <string name="Readme1">Readme1</string>
+    <string name="Readme1_title">「複数のアカウントへの対応」</string>
+    <string name="Readme1_message">　複数のGoogleアカウントを登録しているような場合でも表示するアカウントを個別に設定できるように修正しました。それに伴いアカウント設定がリセットされています。一度ご確認下さい。</string>
+    <string name="Readme1_title2">「携帯の利き手」</string>
+    <string name="Readme1_message2">携帯の利き手を設定できるようになりました。タブやボタンなどのレイアウトを反転させることが可能です。</string>
+    
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    
+   
+    
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">ﾜﾝﾊﾝﾄﾞ電話帳</string>
+    <string name="goto_general">各種設定</string>
+    <string name="goto_account">Account Setting</string>
+    <string name="goto_group_order">Group Setting</string>
+    <string name="goto_tab_order">Tab Setting</string>
+    
+    <string name="Tab_Favorite">Favorite</string>
+    <string name="Tab_Group">Group</string>
+    <string name="Tab_Kana">Kana</string>
+    <string name="Tab_History">History</string>
+    <string name="Tab_Dial">Dial</string>
+    
+    <string name="DefaultTabPosition">起動時の選択タブ</string>    
+    <string name="TabUpDown">メインタブの上下位置</string>    
+    
+    <string name="LR">携帯の利き手</string>
+    <string name="LR_left">左</string>
+    <string name="LR_right">右</string>
+    
+    <string name="id_LayoutPhone">1</string>
+    <string name="id_LayoutProfile">2</string>
+    <string name="id_LayoutMail">3</string>
+    <string name="id_textProfileName">11</string>
+    <string name="id_textProfileNumber">21</string>
+    <string name="id_textProfileAddress">31</string>
+    <string name="DisplaySize">画面のサイズ</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="OK">OK</string>
+    <string name="TabUp">上</string>
+    <string name="TabDown">下</string>
+    <string name="TabOrder">タブの並び替え</string>
+    <string name="AccountChoice">使用するアカウント</string>
+    <string name="GroupOrder">グループ設定</string>
+    <string name="OrderInfo">長押し → ドラッグで移動</string>
+    
+    <string name="AddGroup">新規グループ</string>
+        
+    <string name="MailAddress">メールアドレス</string>
+    <string name="Telephone">電話番号</string>
+    <string name="No_Group">グループなし</string>
+    <string name="Group">グループ</string>
+
+    <string name="accountSpinnerLabel">Account</string>
+    <string name="addContactButtonLabel">Add Contact</string> 
+    <string name="addContactTitle">Add Contact</string> 
+    <string name="allAccounts">All Accounts</string> 
+    <string name="contactCreationFailure">Contact creation failed, check logs.</string> 
+    <string name="contactEmailLabel">Contact Email</string> 
+    <string name="contactNameLabel">Contact Name</string> 
+    <string name="contactPhoneLabel">Contact Phone</string> 
+    <string name="save">Save</string> 
+    <string name="selectAccountLabel">Select</string> 
+    <string name="selectLabel">Select label</string> 
+    <string name="showInvisible">Show Invisible Contacts (Only)</string> 
+    <string name="targetAccountLabel">Target Account</string> 
+    <string name="undefinedTypeLabel">(Undefined)</string>
+
+    <string name="pleaserestart">次回起動時に設定が有効になります</string>
+    
+    
+    
+</resources>

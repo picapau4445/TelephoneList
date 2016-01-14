@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Readme">Updates</string>
+    <string name="Readme1">Readme1</string>
+    <string name="Readme1_title">CAUTION!</string>
+    <string name="Readme1_message">ACCOUNT SETTING is reset. Please, Check your setting.</string>
+    <string name="Readme1_title2">CHECK IT OUT!</string>
+    <string name="Readme1_message2">Right Hand User Mode enabled.</string>
+    
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">OneHandPhone</string>
+    <string name="goto_general">Setting</string>
+    <string name="goto_account">Account Setting</string>
+    <string name="goto_group_order">Group Setting</string>
+    <string name="goto_tab_order">Tab Setting</string>
+    
+    <string name="Tab_Favorite">Favorite</string>
+    <string name="Tab_Group">Group</string>
+    <string name="Tab_Kana">A-Z</string>
+    <string name="Tab_History">History</string>
+    <string name="Tab_Dial">Dial</string>
+    
+    <string name="DefaultTabPosition">DefaultTab</string>    
+    <string name="TabUpDown">TabUpDown</string>    
+    
+    <string name="LR">use LEFT or RIGHT?</string>
+    <string name="LR_left">Left</string>
+    <string name="LR_right">Right</string>
+    
+    
+    <string name="id_LayoutPhone">1</string>
+    <string name="id_LayoutProfile">2</string>
+    <string name="id_LayoutMail">3</string>
+    <string name="id_textProfileName">11</string>
+    <string name="id_textProfileNumber">21</string>
+    <string name="id_textProfileAddress">31</string>
+    <string name="DisplaySize">DisplaySize</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="TabUp">Upper</string>
+    <string name="TabDown">Lower</string>
+    <string name="TabOrder">TabOrder</string>
+    <string name="AccountChoice">AccountChoice</string>
+    <string name="GroupOrder">GroupSetting</string>
+    <string name="OrderInfo">LongTap → Drag</string>
+    
+    <string name="AddGroup">新規グループ</string>
+        
+    
+    <string name="MailAddress">MailAddress</string>
+    <string name="Telephone">Telephone</string>
+    <string name="No_Group">No Group</string>
+    <string name="Group">Group</string>
+
+    <string name="accountSpinnerLabel">Account</string>
+    <string name="addContactButtonLabel">Add Contact</string> 
+    <string name="addContactTitle">Add Contact</string> 
+    <string name="allAccounts">All Accounts</string> 
+    <string name="contactCreationFailure">Contact creation failed, check logs.</string> 
+    <string name="contactEmailLabel">Contact Email</string> 
+    <string name="contactNameLabel">Contact Name</string> 
+    <string name="contactPhoneLabel">Contact Phone</string> 
+    <string name="save">Save</string> 
+    <string name="selectAccountLabel">Select</string> 
+    <string name="selectLabel">Select label</string> 
+    <string name="showInvisible">Show Invisible Contacts (Only)</string> 
+    <string name="targetAccountLabel">Target Account</string> 
+    <string name="undefinedTypeLabel">(Undefined)</string>
+
+    <string name="pleaserestart">Please Restart Application</string>
+    
+</resources>
